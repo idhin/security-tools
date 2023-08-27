@@ -1,0 +1,14 @@
+---
+name: param-miner
+description:
+url: https://github.com/PortSwigger/param-miner
+category: tool-addon
+type: Fuzzer
+platform:
+- linux
+- macos
+- windows
+- burpsuite
+lang: Java
+tags:
+- param
